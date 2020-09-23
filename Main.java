@@ -1,12 +1,5 @@
-class Main {
-  
-  private static String[] name = new String[]{"himanshu"};
-  private static void printArray(String[] name){
-    for(int i=0; i < name.length ; i++){ 
-      System.out.println(name[i]);
-    }
-  }
+class Main{
   public static void main(String[] args) {
-    printArray(name);
+   System.out.println("Hi welcome to Data Structure & Algorithm");
   }
 }

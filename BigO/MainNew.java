@@ -1,5 +1,5 @@
 package BigO;
-class Main {
+class MainNew {
   
   private static String[] name = new String[]{"himanshu"};
   private static void printArray(String[] name){
